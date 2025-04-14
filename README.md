@@ -29,9 +29,9 @@ Currently, I'm learning **TypeScript**, **Tailwind CSS v4**, **Design Patterns**
 
 <!-- Dark mode enabled stats (change theme parameter if you prefer a different dark theme) -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel117343&show_icons=true&theme=cobalt)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel117343&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel117343&hide_progress=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel117343&hide_progress=true&theme=dark)
 
 
 ---
@@ -43,7 +43,6 @@ Currently, I'm learning **TypeScript**, **Tailwind CSS v4**, **Design Patterns**
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow.svg?style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-4+-blue.svg?style=flat-square" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-v4-blue.svg?style=flat-square" alt="Tailwind CSS v4" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-purple.svg?style=flat-square" alt="Design Patterns" />
   <img src="https://img.shields.io/badge/GitHub-Profile-black.svg?style=flat-square" alt="GitHub" />
 </div>
 
