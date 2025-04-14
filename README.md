@@ -28,10 +28,11 @@ Currently, I'm learning **TypeScript**, **Tailwind CSS v4**, **Design Patterns**
 ### 📊 GitHub Stats
 
 <!-- Dark mode enabled stats (change theme parameter if you prefer a different dark theme) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel117343&show_icons=true&theme=radical)
 
-<!-- Top languages with dark theme -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel117343&hide_progress=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel117343&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel117343&hide_progress=true&theme=cobalt)
+
 
 ---
 
