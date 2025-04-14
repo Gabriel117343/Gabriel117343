@@ -1,21 +1,58 @@
 ## Hi there 👋
 
-<!--
-**Gabriel117343/Gabriel117343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gabriel Soliz, a Front End Developer specialized in React.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel117343&show_icons=true&theme=transparent)
+I'm a proactive developer focused on continuous learning.  
+Currently, I'm learning **TypeScript**, **Tailwind CSS v4**, **Design Patterns**, and more to enhance my skills and deliver exceptional user interfaces.
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel117343&hide_progress=true)
+### 🔭 What I'm Currently Working On
+
+- **React Projects**: Building scalable and high-performing web applications.
+- Experimenting with new design patterns and best practices in front end development.
+
+---
+
+### 📫 How to Reach Me
+
+- **Email:** [soliz.gabriel@inacapmail.cl](mailto:soliz.gabriel@inacapmail.cl)
+- **GitHub:** [Gabriel117343](https://github.com/Gabriel117343)
+
+---
+
+### 📊 GitHub Stats
+
+<!-- Dark mode enabled stats (change theme parameter if you prefer a different dark theme) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel117343&show_icons=true&theme=radical)
+
+<!-- Top languages with dark theme -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel117343&hide_progress=true&theme=radical)
+
+---
+
+### 🚀 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-18+-blue.svg?style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow.svg?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-4+-blue.svg?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-v4-blue.svg?style=flat-square" alt="Tailwind CSS v4" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-purple.svg?style=flat-square" alt="Design Patterns" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-black.svg?style=flat-square" alt="GitHub" />
+</div>
+
+---
+
+### ⚡ Fun Facts
+
+- I believe that real growth comes from going **beyond just following your ego**—sacrificing what is comfortable to achieve a greater good is where true success lies.
+- I strive for continuous improvement and maintain a balance between effort and sacrifice in my journey as a developer.
+
+---
+
+Feel free to connect and collaborate!
