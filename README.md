@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Gabriel Soliz, a Front End Developer specialized in React.
-![ezgif-82b47038fbd8c01-ezgif com-optimize](https://github.com/user-attachments/assets/f9296397-d147-44a7-8910-e95761a0fe5d)
+
 ---
 
 ### 💻 About Me
