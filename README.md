@@ -47,6 +47,7 @@ Currently, I'm learning **TypeScript**, **Tailwind CSS v4**, **Design Patterns**
 </div>
 
 ---
+[Nuevo Hoja de cálculo de Microsoft Excel.xlsx](https://github.com/user-attachments/files/24067169/Nuevo.Hoja.de.calculo.de.Microsoft.Excel.xlsx)
 
 ### ⚡ Fun Facts
 
